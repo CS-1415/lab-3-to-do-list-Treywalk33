@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab-3-to-do-list-Treywalk33", "lab-3-to-do-list-Treywalk33.csproj", "{CACEBFC5-610A-EEAD-8770-52118A50C516}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CACEBFC5-610A-EEAD-8770-52118A50C516}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CACEBFC5-610A-EEAD-8770-52118A50C516}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CACEBFC5-610A-EEAD-8770-52118A50C516}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CACEBFC5-610A-EEAD-8770-52118A50C516}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {20E7BA26-693D-4065-988F-81671593C83F}
+	EndGlobalSection
+EndGlobal
